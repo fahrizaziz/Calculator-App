@@ -2,6 +2,10 @@
 
 Aplikasi Kalkulator dengan Get X Flutter
 
+## Built With
+
+- [Flutter SDK](https://flutter.dev/docs/development/tools/sdk/releases) 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
