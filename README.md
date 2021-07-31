@@ -8,6 +8,10 @@ Aplikasi Kalkulator dengan Get X Flutter
 - Responsive UI
 - Math Function
 
+## Demo
+
+![Ui Calculator](https://user-images.githubusercontent.com/63221929/127726332-5c36156d-5e63-4189-804c-639963537e21.png)
+
 ## Built With
 
 - [Flutter SDK : 2.2.3](https://flutter.dev/docs/development/tools/sdk/releases) 
