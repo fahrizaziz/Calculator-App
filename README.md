@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Aplikasi Kalkulator dengan Get X Flutter
 
 ## Getting Started
 
