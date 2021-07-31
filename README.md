@@ -2,6 +2,12 @@
 
 Aplikasi Kalkulator dengan Get X Flutter
 
+## Apps Feature
+
+- Dark Mode
+- Responsive UI
+- Math Function
+
 ## Built With
 
 - [Flutter SDK : 2.2.3](https://flutter.dev/docs/development/tools/sdk/releases) 
