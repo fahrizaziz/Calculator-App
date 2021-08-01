@@ -20,3 +20,4 @@ Aplikasi Kalkulator dengan Get X Flutter
 - [Get : 4.1.4](https://pub.dev/packages/get)
 - [Function Tree : 0.8.12](https://pub.dev/packages/function_tree)
 - [Flutter Launcher Icons : 0.9.1](https://pub.dev/packages/flutter_launcher_icons)
+- [Google Fonts : 2.1.0](https://pub.dev/packages/google_fonts)
